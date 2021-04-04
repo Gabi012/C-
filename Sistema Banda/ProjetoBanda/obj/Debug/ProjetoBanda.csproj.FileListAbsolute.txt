@@ -1,0 +1,93 @@
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\bin\Debug\ProjetoBanda.exe.config
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\bin\Debug\ProjetoBanda.exe
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\bin\Debug\ProjetoBanda.pdb
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.csprojResolveAssemblyReference.cache
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.FormLogin.resources
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.Properties.Resources.resources
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.GenerateResource.Cache
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.exe
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.pdb
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeFuncionario.resources
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeInstrumento.resources
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeUsuario.resources
+c:\users\guilherme bazzo\documents\visual studio 2015\Projects\ProjetoBanda\ProjetoBanda\obj\Debug\ProjetoBanda.FormPrincipal.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.exe
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.pdb
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\ProjetoBanda.exe.config
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.csprojResolveAssemblyReference.cache
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeFuncionario.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeInstrumento.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeUsuario.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormLogin.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormPrincipal.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.Properties.Resources.resources
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.GenerateResource.Cache
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\BDBanda.mdf
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\BDBanda_log.ldf
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\ProjetoBanda.exe
+L:\Sistema Banda\Versões\ProjetoBanda 01-09\ProjetoBanda\ProjetoBanda.pdb
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\ProjetoBanda.exe.config
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.exe
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.pdb
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeFuncionario.resources
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormEventos.resources
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeUsuario.resources
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormLogin.resources
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormPrincipal.resources
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.Properties.Resources.resources
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.GenerateResource.Cache
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\BDBanda.mdf
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\BDBanda_log.ldf
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\ProjetoBanda.exe
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\ProjetoBanda.pdb
+C:\Users\Guilherme Bazzo\Desktop\ProjetoBanda 01-09\ProjetoBanda\obj\Debug\ProjetoBanda.FormEquipamento.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\ProjetoBanda.exe.config
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.exe
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.pdb
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.csprojResolveAssemblyReference.cache
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeFuncionario.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.FormEquipamento.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.FormEventos.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeUsuario.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.FormLogin.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.FormPrincipal.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.Properties.Resources.resources
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.GenerateResource.Cache
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\BDBanda.mdf
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\BDBanda_log.ldf
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\ProjetoBanda.exe
+C:\Users\Gabriele\Desktop\ProjetoBanda 16-10\ProjetoBanda\ProjetoBanda.pdb
+D:\ProjetoBanda 06-11\ProjetoBanda\ProjetoBanda.exe.config
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.exe
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.pdb
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.csprojResolveAssemblyReference.cache
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeFuncionario.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormEquipamento.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormEventos.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeUsuario.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormLogin.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormPrincipal.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.Properties.Resources.resources
+D:\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.GenerateResource.Cache
+D:\ProjetoBanda 06-11\ProjetoBanda\BDBanda.mdf
+D:\ProjetoBanda 06-11\ProjetoBanda\BDBanda_log.ldf
+D:\ProjetoBanda 06-11\ProjetoBanda\ProjetoBanda.exe
+D:\ProjetoBanda 06-11\ProjetoBanda\ProjetoBanda.pdb
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.csprojAssemblyReference.cache
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeFuncionario.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormEquipamento.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormEventos.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormCadastroDeUsuario.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormLogin.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.FormPrincipal.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.Properties.Resources.resources
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.GenerateResource.cache
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.csproj.CoreCompileInputs.cache
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\BDBanda.mdf
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\BDBanda_log.ldf
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\ProjetoBanda.exe.config
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.exe
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\obj\Debug\ProjetoBanda.pdb
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\ProjetoBanda.exe
+E:\Arquivos pen Faculdade\Facul\ProjetoBanda 06-11\ProjetoBanda 06-11\ProjetoBanda\ProjetoBanda.pdb
